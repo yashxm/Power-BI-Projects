@@ -21,3 +21,6 @@ This Power BI dashboard provides an **interactive analysis** of supermarket sale
 - **Power BI** for dashboard creation  
 - **DAX & Power Query** for data transformation  
 - **CSV Dataset**  
+
+## Dashboard Preview
+![Screenshot of the Power BI dashboard.](https://github.com/yashxm/Power-BI-Projects/blob/main/Supermarket-Sales-Analysis/supermarket-sales-analysis-dashboard.png)
